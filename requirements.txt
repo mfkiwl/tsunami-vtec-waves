@@ -1,0 +1,4 @@
+madrigalWeb
+numpy
+plotly
+pandas
