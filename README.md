@@ -1,6 +1,6 @@
 # Measuring the Influence of Tsunamis on the Ionosphere 🌊📡
 
-[![Open in GitHub Codespace](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repository=tsunami-vtec-waves)
+[![Open in GitHub Codespace](https://github.com/codespaces/badge.svg)](https://codespaces.new/d33pk3rn3l/tsunami-vtec-waves)
 
 ## Overview
 
