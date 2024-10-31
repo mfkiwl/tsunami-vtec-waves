@@ -5,3 +5,4 @@ pandas
 jupyter
 ipykernel
 ipywidgets
+h5py
