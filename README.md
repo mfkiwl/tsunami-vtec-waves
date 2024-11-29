@@ -31,6 +31,39 @@ We anticipate observing differences in:
 
 These variations in VTEC waveforms, propagation characteristics, and spatial distribution will help us define parameters associated with tsunami events, ultimately leading to improved early detection systems.
 
+## Data 
+Japan: 
+2011-03-11 05:46:23 UTC M 9.1 -Tohoku TSUNAMI
+2015-05-30 11:23:02 UTC M 7.8 - EARTHQUAKE
+
+Salomonen:
+2007-04-01 20:39:58 (UTC) M 8.1 - 45 km SSE of Gizo, Solomon Islands TSUNAMI
+2009-10-07 22:18:51 (UTC) M 7.8 - 196 km NW of Sola, Vanuatu EARTHQUAKE
+
+Samoa:
+2009-09-29 17:48:10 (UTC) M 8.1 - 168 km SSW of Matavai, Samoa TSUNAMI
+2009-03-19 18:17:40 (UTC) M 7.6 - 191 km S of ‘Ohonua, Tonga EARTHQUAKE
+
+Sumatra:
+2016-03-02 12:49:48 (UTC) M 7.8 - southwest of Sumatra, Indonesia EARTHQUAKE 
+2004-12-26 00:58:53 (UTC)  M 9.1 - 2004 Sumatra - Andaman Islands Earthquake TSUNAMI
+
+
+----------------------------------------------------------
+~~
+Water-Land aber gute doku
+
+Chile:
+2019-08-01 18:28:07 (UTC) (M6.8 - 96 km SW of San Antonio, Chile) TSUNAMI
+2019-09-26 16:36:18 (UTC) (M 6.1 - 30 km W of Villa La Angostura, Argentina) Earthquake on land
+
+Wasser Land, schlechte Doku
+
+Timor
+2021-12-29 (M 7.3 - 125 km NNE of Lospalos, Timor Leste) EARTHQUAKE
+2021-12-14 (M 7.3 - Flores Sea) TSUNAMI~~
+-----------------------------------------------------------
+
 ## References
 
 - Komjathy, A., et al. (2016). *Review of ionospheric disturbances caused by tsunamis*.
