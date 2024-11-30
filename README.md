@@ -36,6 +36,19 @@ Japan:
 2011-03-11 05:46:23 UTC M 9.1 -Tohoku TSUNAMI
 2015-05-30 11:23:02 UTC M 7.8 - EARTHQUAKE
 
+Japan24:
+2024-01-01 07:10:09 (UTC) M 7.5 - 2024 Noto Peninsula, Japan Earthquake TSUNAMI
+2024-08-08 07:42:55 (UTC)M 7.1 - 2024 Hyuganada Sea, Japan Earthquake EARTHQUAKE
+
+Alaska:
+2021-07-29 06:15:49 (UTC) M 8.2 - Alaska Peninsula TSUNAMI (small)
+2021-08-14 11:57:43 (UTC) M 6.9 - 125 km SE of Perryville, Alaska EARTHQUAKE (no docu about tsunami)
+
+
+
+
+TOO OLD FOR DATA
+
 Salomonen:
 2007-04-01 20:39:58 (UTC) M 8.1 - 45 km SSE of Gizo, Solomon Islands TSUNAMI
 2009-10-07 22:18:51 (UTC) M 7.8 - 196 km NW of Sola, Vanuatu EARTHQUAKE
