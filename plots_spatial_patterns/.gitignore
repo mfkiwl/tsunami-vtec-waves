@@ -1,0 +1,6 @@
+# Ignore all .jpg files
+*.jpg
+*.png
+
+# Ensure .gif files are not ignored
+!*.gif
